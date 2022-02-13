@@ -3,7 +3,7 @@ Study for tracer primitive
 
 ## Build
 ```
-gcc -pg mcount.S test.c
+gcc -pg mcount.S main.c
 ```
 
 ## Run
